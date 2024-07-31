@@ -1,0 +1,69 @@
+header{
+ background-color: color-mix(in srgb, #34c9eb 25%, white);
+text-align: center;
+
+}
+header a{
+    margin-left: 91%;
+    background-color: rgba(238, 100, 30, 0.511);
+}
+h2{
+    margin-top: 5px;
+    size: 20px;
+    color: rgb(230, 40, 40);
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+border-radius: 50%;
+box-shadow: 5px coral;
+}
+body{
+    text-align: center;
+    background-color: bisque;
+}
+ul li a{
+color: black;
+text-decoration:none;
+text-transform: uppercase;
+text-decoration-color: green;
+}
+footer{
+    margin-top: 10px;
+    background-color: black;
+
+}
+.footer1{
+    text-decoration: none;
+    color:rgb(26, 187, 131);
+
+}
+h3{
+    color: rgb(94, 183, 27);
+    
+}
+#name{
+    width: 30%;
+    height: 20px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+    border: 2px solid rgba(201, 37, 28, 0.81);
+}
+#email{
+    width: 30%;
+    height: 20px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+}
+#phone{
+    width: 30%;
+    height: 20px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+}
+#text{
+    width: 30%;
+    height: 50px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+}
